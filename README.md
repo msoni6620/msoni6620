@@ -1,10 +1,8 @@
 <p align="center"><img width="80%" alt="Hello, I'm Mayank. " src="./github-header-image.png" /></a></p>
-
 <br />
 <h3 align="center">A passionate Software Developer from India</h3>
 
 **About me**
-
 - 🔭 I’m currently working on **something cool 😉**
 
 - 🌱 I’m currently learning **Django**
