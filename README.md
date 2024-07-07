@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python,Internet of Thing, CPP**
-
 - 📫 How to reach me **msoni6620@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
