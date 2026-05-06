@@ -1,5 +1,3 @@
-<p align="center"><img width="80%" alt="Hello, I'm Mayank. " src="./1728901302372.jpeg" /></a></p>
-
 # Hi, I'm Mayank
 
 I’m currently focused on building applications using Generative AI while strengthening my backend and database fundamentals.
