@@ -1,25 +1,26 @@
-<p align="center"><img width="80%" alt="Hello, I'm Mayank. " src="./github-header-image.png" /></a></p>
+<p align="center"><img width="80%" alt="Hello, I'm Mayank. " src="./1728901302372.png" /></a></p>
 
 # Hi, I'm Mayank
 
-I am a developer focused on building applications using Generative AI.
+I’m currently focused on building applications using Generative AI while strengthening my backend and database fundamentals.
 
 ## What I’m working on
 
-* Building GenAI applications using LLMs
-* Exploring prompt engineering and few-shot learning
-* Working with tools like LangChain and APIs
+* Exploring Large Language Models (LLMs) and their real-world use cases
+* Learning prompt engineering, few-shot techniques, and RAG concepts
+* Building API-based applications and integrating AI services
+* Improving backend and database handling for scalable systems
 
-## Projects
+## Tech & Tools
 
-* GenAI LinkedIn Post Generator
-* LLM-based applications (in progress)
+* **Languages:** Python, SQL
+* **GenAI:** LLM APIs, LangChain, Prompt Engineering
+* **Backend & APIs:** REST APIs, Postman
+* **Databases:** MySQL, SQL Server, Oracle
+* **Cloud:** Microsoft Azure (basics)
+* **Tools:** Git, Git Bash
 
-## Tech Stack
+## Focus Area
 
-Python, Streamlit, LangChain, APIs
-
-## Goal
-
-To become a skilled GenAI developer and work on real-world AI applications.
+I aim to build practical GenAI applications by combining AI capabilities with strong backend and data handling skills.
 
