@@ -1,4 +1,5 @@
 <p align="center"><img width="80%" alt="Hello, I'm Mayank. " src="./github-header-image.png" /></a></p>
+
 # Hi, I'm Mayank
 
 I am a developer focused on building applications using Generative AI.
